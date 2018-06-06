@@ -1,0 +1,21 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "Simple blog app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven McHenry",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "express-sanitizer": "^1.0.4",
+    "http": "0.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.1.4"
+  }
+}
